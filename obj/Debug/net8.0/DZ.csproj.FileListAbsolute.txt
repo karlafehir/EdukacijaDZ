@@ -1,0 +1,15 @@
+/Users/karlafehir/Desktop/Edukacija/DZ/obj/Debug/net8.0/DZ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karlafehir/Desktop/Edukacija/DZ/obj/Debug/net8.0/DZ.AssemblyInfoInputs.cache
+/Users/karlafehir/Desktop/Edukacija/DZ/obj/Debug/net8.0/DZ.AssemblyInfo.cs
+/Users/karlafehir/Desktop/Edukacija/DZ/obj/Debug/net8.0/DZ.csproj.CoreCompileInputs.cache
+/Users/karlafehir/Desktop/Edukacija/DZ/obj/Debug/net8.0/DZ.sourcelink.json
+/Users/karlafehir/Desktop/Edukacija/DZ/bin/Debug/net8.0/DZ
+/Users/karlafehir/Desktop/Edukacija/DZ/bin/Debug/net8.0/DZ.deps.json
+/Users/karlafehir/Desktop/Edukacija/DZ/bin/Debug/net8.0/DZ.runtimeconfig.json
+/Users/karlafehir/Desktop/Edukacija/DZ/bin/Debug/net8.0/DZ.dll
+/Users/karlafehir/Desktop/Edukacija/DZ/bin/Debug/net8.0/DZ.pdb
+/Users/karlafehir/Desktop/Edukacija/DZ/obj/Debug/net8.0/DZ.dll
+/Users/karlafehir/Desktop/Edukacija/DZ/obj/Debug/net8.0/refint/DZ.dll
+/Users/karlafehir/Desktop/Edukacija/DZ/obj/Debug/net8.0/DZ.pdb
+/Users/karlafehir/Desktop/Edukacija/DZ/obj/Debug/net8.0/DZ.genruntimeconfig.cache
+/Users/karlafehir/Desktop/Edukacija/DZ/obj/Debug/net8.0/ref/DZ.dll
