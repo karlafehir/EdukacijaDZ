@@ -41,35 +41,48 @@
 
 
 
- 
+
 
 // -----------------------------Z2--------------------------------
-Console.Write("Enter number to generate Fibonacci sequence:");
-var input = Console.ReadLine();
+// Console.Write("Enter number to generate Fibonacci sequence:");
+// var input = Console.ReadLine();
 
-try
-{
-    int num = Convert.ToInt32(input);
-    calculateFibonacci(num);
+// try
+// {
+//     int num = Convert.ToInt32(input);
+//     calculateFibonacci(num);
 
-}
-catch (FormatException)
-{
-    Console.WriteLine("Not a correct format, please enter a number.");
-}
+// }
+// catch (FormatException)
+// {
+//     Console.WriteLine("Not a correct format, please enter a number.");
+// }
 
-void calculateFibonacci(int num)
-{
-    int a = 0, b = 1, c;
+// void calculateFibonacci(int num)
+// {
+//     int a = 0, b = 1, c, sumOdd = 0, sumEven = 0;
 
-    while (a <= num)
-    {
-        Console.Write(a + " ");
-        c = a + b;
-        a = b;
-        b = c;
-    }
-}
+//     for (int i = 0; a <= num; i++)
+//     {
+
+//         if (a % 2 == 0)
+//         {
+//             sumEven += a;
+//         }
+//         else
+//         {
+//             sumOdd += a;
+//         }
+//         Console.Write(a + " ");
+//         c = a + b;
+//         a = b;
+//         b = c;
+
+//     }
+//     Console.WriteLine();
+//     Console.WriteLine($"Sum of odd numbers in the sequence: {sumOdd}");
+//     Console.WriteLine($"Sum of even numbers in the sequence: {sumEven}");
+// }
 
 //NOT COMPLETED - SUM MISSING
 
@@ -250,5 +263,37 @@ void calculateFibonacci(int num)
 
 
 // -----------------------------Z7--------------------------------
+// Console.WriteLine("Enter a word:");
+// string input = Console.ReadLine();
+// int vowelCount = 0;
 
-// -----------------------------Z7--------------------------------
+// vowelCount = CountVowels(input);
+
+// Console.Write($"Number of vowels is {vowelCount}");
+
+
+// bool isVowel(char c)
+// {
+//     return "aeiou".Contains(c);
+// }
+
+// int CountVowels(string word)
+// {
+//     foreach (char letter in word.ToLower())
+//     {
+//         if (isVowel(letter))
+//         {
+//             vowelCount++;
+//         }
+//     }
+//     return vowelCount;
+// }
+
+
+
+// -----------------------------Z8--------------------------------
+// string writeText = "Hello World!";
+// File.WriteAllText("filename.txt", writeText);
+
+// string readText = File.ReadAllText("filename.txt");
+// Console.WriteLine(readText);
